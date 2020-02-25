@@ -1,0 +1,3 @@
+PropertySet:	MyPropertySet	I	IfcElement
+	MyProperty	Text	MyParameter
+	MyProperty	Text	MyParameter_Instance
